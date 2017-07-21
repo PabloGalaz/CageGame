@@ -180,9 +180,8 @@ function checkState(){
 
 function draw(){
 //checkState();
-/*if (tcounter <= 0){
-clearInterval(myCounter);
-}*/
+if (tcounter <= 0){
+gameOver();
 //background(random (10) + 240);
 
 
