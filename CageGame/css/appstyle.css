@@ -1,0 +1,35 @@
+html, body {  /* Select and size the outermost elements so other elements can be set in % */
+	height:100%;
+	width:99%;
+
+
+}
+
+body {
+   font: 12px Helvetica;
+   color: white;
+   background-color: black;
+   
+  }
+
+
+ h1{
+
+ 	font-size: 70px;
+ 	color: black;
+ }
+
+p {
+	font-size: 15px;
+	color :red;
+}
+  
+
+   
+   
+   
+
+  
+
+ 
+  
